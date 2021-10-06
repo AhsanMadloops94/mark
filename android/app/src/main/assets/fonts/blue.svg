@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="bluetooth-b" unicode="&#xf294;" d="M333 56l96 96-96 96v-192z m0 396l96 96-96 96v-192z m17-102l199-199-301-301v397l-165-165-61 60 208 208-208 208 61 60 165-165v397l301-301z" horiz-adv-x="571.4" />
+</font>
+</defs>
+</svg>
